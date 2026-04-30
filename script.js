@@ -14,13 +14,13 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar-light.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos escuros e camisa preta e fundo azul/rox",
+      "Foto de Fabio Sodre, usando camisa preta, e fundo branco",
     )
   } else {
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute(
       "alt",
-      "Foto de Mayk Brito sorrindo, usando óculos e camisa preta e fundo azul/rox",
+      "Foto de Fabio Sodre, usando óculos , camisa preta e fundo branco",
     )
   }
 }
